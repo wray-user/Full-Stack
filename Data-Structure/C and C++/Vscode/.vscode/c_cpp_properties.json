@@ -1,0 +1,89 @@
+{
+    "configurations": [
+        {
+            "name": "C",
+            "includePath": [             
+                "${workspaceFolder}/**",
+
+                "W:/MinGW_GCC-8.1.0/mingw64/include/**",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../include",
+
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+
+            ],
+            "defines": [                
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "W:\\MinGW_GCC-8.1.0\\mingw64\\bin\\gcc.exe",    
+            "cStandard": "c17",   
+            "cppStandard": "gnu++14",  
+            "intelliSenseMode": "windows-gcc-x64",  
+
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+
+                    "W:/MinGW_GCC-8.1.0/mingw64/include/**",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../include",
+    
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }, 
+
+        {
+            "name": "C++",
+            "includePath": [             
+                "${workspaceFolder}/**",
+
+                "W:/MinGW_GCC-8.1.0/mingw64/include/**",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../include",
+
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+
+            ],
+            "defines": [                
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "W:\\MinGW_GCC-8.1.0\\mingw64\\bin\\g++.exe",    
+            "cStandard": "c17",  
+            "cppStandard": "gnu++14",  
+            "intelliSenseMode": "windows-gcc-x64",  
+
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+
+                    "W:/MinGW_GCC-8.1.0/mingw64/include/**",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../include",
+    
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                    "W:/MinGW_GCC-8.1.0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+    
+                ],
+                "limitSymbolsToIncludedHeaders": true,  
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
